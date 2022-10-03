@@ -28,7 +28,7 @@
 ● “5” + ”5” == 10 = false (boolean)
 ● “5” * 2 > 9 = true (boolean)
 ● (10 + 10) * 2 = 40 (number)
-● 10 + 10 * 2 = 30  (number) 
+● 10 + 10 * 2 = 30  (number)   
 
 2. Responda as perguntas de acordo com as variáveis.
 var branco = “preto”;
